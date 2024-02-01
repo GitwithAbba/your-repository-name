@@ -14,6 +14,7 @@ const stats = {
   const half = ({ max, min }) => (max + min) / 2.0; 
   console.log(half(stats))
   //mychanges here
+  //more changes here
   // Only change code above this line
 
 
